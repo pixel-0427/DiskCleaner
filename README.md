@@ -4,6 +4,7 @@ This tool cleans the C drive of unnecessary files and more to free up space / �
 
 # Usage / 使い方
 ===English===
+<br>
 1. Run Disk_Cleaner.bat with admin rights (it will ask for admin rights if you don't have admin rights) <br>
 2. Wait until the command prompt disappears
 
