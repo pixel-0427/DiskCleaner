@@ -1,6 +1,5 @@
 # DiskCleaner
-
-This tool cleans the C drive of unnecessary files and more to free up space / このツールはCドライブの不要なファイルなどを消去し、空き容量を増やします
+ This tool cleans the C drive of unnecessary files and more to free up space / このツールはCドライブの不要なファイルなどを消去し、空き容量を増やします
 
 # Usage / 使い方
 ===English===<br>
